@@ -3,6 +3,44 @@ Así lo precisa la Encuesta Demográfica y de Salud Familiar 2017, elaborada por
 En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen de anemia, según indica la Encuesta Demográfica y de Salud Familiar (ENDES) 2017, elaborada por Instituto Nacional de Estadística e Informática (INEI).
 Esta informacion es relevante
 
+
+Ø TRABAJOS DEL CLIENTE: Madres con hijos anémicos, jóvenes adolescentes en edad fértil. 
+- FUNCIONAL: Mantener la buena salud de sus hijos y aportar económicamente a la familia.
+- SOCIAL: Tienen miedo de ser vistos como malos padres
+
+ 
+Ø FRUSTRACIONES
+- OBSTÁCULOS:
+- Mientras sus hijos estén bien físicamente piensan que no tienen ningún problema de salud y dejan el rigor del tratamiento con hierro.
+-Mujeres en edad fértil que ni siquiera están preparadas para ser mamás porque desconocen todas las complicaciones que conlleva, falta educación respecto a la anemia y su repercusión irreversible, anemia el enemigo silencioso.
+- No tienen tiempo para la salud por sus largas jornadas laborales.
+
+- RIESGOS: 
+-Zonas de pobreza donde la falta de saneamiento hace que se enfermen de parásitos tengan diarrea y pierdan constantemente hierro.
+-Falta de recursos para poder brindar a sus hijos una comida rica en hierro de las carnes.
+ 
+Ø ALEGRÍAS
+- ALEGRÍAS NECESARIAS: Haber cumplido como mamás dándole igualdad de oportunidades a sus hijos con miras a futuro.
+- ALEGRÍAS ESPERADAS: Que su hijo crezca sano y sin complicaciones.
+- ALEGRÍAS DESEADAS: Saber que gracias a su buena nutrición en hierro su bebé vendrá al mundo con suficientes reservas.
+- ALEGRÍAS INESPERADAS: No tener que gastar en salud más que en el alimento de su hijo, lo demás lo recibe del gobierno.
+
+
+Propuesta de valor
+a)	Creadores de alegrías
+-Se tratan de implementar charlas lúdicas sobre la preparación de los micronutrientes. Periódico ANDINA, “Madres de familia aprenden en forma lúdica sobre preparación de micronutrientes” LIMA 26/7/2014.
+-Se facilitó el acceso a medicamentos que previenen la anemia la anemia en niños menores de 3 años. MINSA “Minsa facilitará el acceso a medicamentos que previenen la anemia en hogares con niños menores de 3 años” 28 de abril del 2018. http://www.minsa.gob.pe/index.asp?op=51&nota=27243  
+- Quizá para combatir la anemia también hace falta un apoyo en lo que respecta a la compra de alimentos. A pesar de que la inflación de alimentos en Perú no es alta, tampoco es la más baja. Según la Organización de las Naciones Unidas para la Alimentación y la Agricultura, “Precios de los alimentos en América Latina y el Caribe” páginas: 7 y 11. http://www.fao.org/3/a-i6777s.pdf  
+b)	Aliviadores de frustraciones
+-	Antes de la concepción: El MINSA ha implementado un plan multisectorial para la prevención de embarazo en adolescentes. MINSA, “PLAN MULTISECTORIAL PARA LA PREVENCIÓN DEL EMBARAZO EN ADOLESCENTES”, 2013 – 2021. Después del parto: La guía “Guía Educativa para Adultos en Promoción de la Maternidad Saludable “Aprendiendo Juntos” del MINSA nos demuestra que los profesionales en salud se preparan para poder capacitar a toda madre joven que lo necesite.
+-	Se un mayor esfuerzo por parte de las autoridades con respecto a la salubridad alimenticia y limpieza de las calles, tomando de ejemplo Lima algunos de sus distritos: San Isidro siempre tienen las calles limpias y los supermercados autorizados, a diferencia de San Martín de Porres. Periódico Perú21 “SMP: Basura e informalidad se apoderan de la Av. Canadá en tan solo un día”, 23/04/2018.
+-	Mayor control respecto a las jornadas laborales. Periódico RPP “Los peruanos trabajan más horas que las establecidas en los estándares internacionales” 02 May 2018. https://vital.rpp.pe/salud/los-peruanos-trabajan-mas-horas-de-las-que-establecen-los-estandares-internacionales-noticia-1119764 
+c)	Productos y servicios
+
+Un apoyo por parte del Estado para facilitar el aumento de hierro en los niños y el interés por parte de la madre, interés que se puede intensificar a través de charlas educativas.
+
+
+
 ### PERFIL DEL CLIENTE: Personal médico
 
 
