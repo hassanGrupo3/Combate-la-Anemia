@@ -109,7 +109,7 @@ Periódico La República “La anemia infantil no se ha reducido en el Perú, ad
 3.2 Aliviadores de frustraciones
 
 	Bajo costo: Realizar un correcto estudio sobre la cantidad de micronutrientes que se requieran, esto debido al incidente que el periódico La República presentó “Micronutrientes contra la anemia infantil caducaron en almacenes”, donde se llega a la conclusión de que se han perdido 90 millones.9
-El Comercio “Micronutrientes contra la anemia infantil caducaron en almacenes”,07.05.2018. [Link](https://elcomercio.pe/peru/micronutrientes-anemia-infantil-caducaron-almacenes-noticia-518145) 
+  El Comercio “Micronutrientes contra la anemia infantil caducaron en almacenes”,07.05.2018. [Link](https://elcomercio.pe/peru/micronutrientes-anemia-infantil-caducaron-almacenes-noticia-518145) 
 
 	Accesibilidad: El Ministerio de Salud implementará un sistema complementario de citas a través de la página web del sector, o mediante un aplicativo móvil gratuito. La Superintendencia Nacional de Salud (Susalud), en Breña,  constató que hubo un mejor flujo en las colas para la expedición de citas y verificó que esta vez había mayor difusión sobre el nuevo sistema de citas.10
 Periódico La República “Minsa anuncia un sistema de citas por internet”  2 Mar 2018.[Link]( https://larepublica.pe/sociedad/1205198-minsa-anuncia-un-sistema-de-citas-por-internet )
