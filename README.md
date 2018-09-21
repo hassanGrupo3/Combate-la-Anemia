@@ -16,13 +16,20 @@ TRABAJOS DEL CLIENTE:
 	Acompañar en el tratamiento
 	Interactuar con los familiares del paciente
 
+FRUSTRACIONES:
+
+	Falta o desinterés de los padres por llevar a su hijo a un centro médico.
+	Disposición del paciente para acceder al análisis.
+
+ALEGRIAS
+
+	 Adecuada organización
+	Obtener resultados efectivos
+	 Ambiente laboral amigable
+	 Satisfactoria recuperación del paciente 
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
