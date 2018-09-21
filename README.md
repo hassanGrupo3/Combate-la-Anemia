@@ -6,10 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### PERFIL DEL CLIENTE: Personal médico
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+
 TRABAJOS DEL CLIENTE:
 
 	Extraer muestra de sangre y, según los resultados, emitir un diagnostico
@@ -27,6 +26,25 @@ ALEGRIAS
 	Obtener resultados efectivos
 	 Ambiente laboral amigable
 	 Satisfactoria recuperación del paciente 
+
+3. Propuesta de valor
+
+  3.1	Creadores de alegrías
+
+  	OPTIMA GESTIÓN.- Con una óptima gestión se logrará aprovechar el máximo potencial del personal médico. 
+
+ Es muy difícil que la buena gestión se dé de forma espontánea, para ello hay que trabajar mediante procedimientos para lograr un      resultado ideal:
+
+ •	Prevención de posibles incidentes, adelantarse al futuro  
+ •	Emplear métodos innovadores 
+ •	Utilizar estrategias 
+ •	Automatización de procesos
+ •	Uso de las tecnologías de información digital
+ •	Delegación de tareas
+
+
+	CONTROL DE CALIDAD DE MICRONUTRIENTES.- El objetivo principal del control de calidad es lograr el carácter total en los micronutrientes que van a consumir los niños afectados con anemia, de esta manera se logrará una satisfactoria recuperación de los niños. 
+
 
 
 
