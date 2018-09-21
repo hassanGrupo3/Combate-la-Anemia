@@ -2,7 +2,6 @@
 Así lo precisa la Encuesta Demográfica y de Salud Familiar 2017, elaborada por Instituto Nacional de Estadística e Informática INEI. En Lima Metropolitana se concentra la mayor cantidad de casos
 En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen de anemia, según indica la Encuesta Demográfica y de Salud Familiar (ENDES) 2017, elaborada por Instituto Nacional de Estadística e Informática (INEI).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### PERFIL DEL CLIENTE: Personal médico
 
@@ -31,9 +30,11 @@ ALEGRIAS
 
   3.1	Creadores de alegrías
 
-  	OPTIMA GESTIÓN.- Con una óptima gestión se logrará aprovechar el máximo potencial del personal médico. 
+  	OPTIMA GESTIÓN.-  
+  Con una óptima gestión se logrará aprovechar el máximo potencial del personal médico. 
 
- Es muy difícil que la buena gestión se dé de forma espontánea, para ello hay que trabajar mediante procedimientos para lograr un      resultado ideal:
+Es muy difícil que la buena gestión se dé de forma espontánea,
+para ello hay que trabajar mediante procedimientos para lograr un resultado ideal:
 
  •	Prevención de posibles incidentes, adelantarse al futuro  
  •	Emplear métodos innovadores 
@@ -43,7 +44,10 @@ ALEGRIAS
  •	Delegación de tareas
 
 
-	CONTROL DE CALIDAD DE MICRONUTRIENTES.- El objetivo principal del control de calidad es lograr el carácter total en los micronutrientes que van a consumir los niños afectados con anemia, de esta manera se logrará una satisfactoria recuperación de los niños. 
+	CONTROL DE CALIDAD DE MICRONUTRIENTES.-  
+El objetivo principal del control de calidad es lograr el carácter total en los micronutrientes 
+que van a consumir los niños afectados con anemia, de esta manera se logrará una satisfactoriar  
+recuperación de los niños. 
 
 
 
