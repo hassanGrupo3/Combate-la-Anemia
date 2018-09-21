@@ -55,7 +55,7 @@ recuperación de los niños.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](
+[Link](url) and ![Image](https://e.rpp-noticias.io/normal/2018/04/17/575657_595752.jpg)
 3.1	Creadores de alegrías
 
 	OPTIMA GESTIÓN.- Con una óptima gestión se logrará aprovechar el máximo potencial del personal médico. 
