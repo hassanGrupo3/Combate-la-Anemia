@@ -100,19 +100,19 @@ o Nivel de inversión significativo
 3.4	Creadores de alegrías
 	Efectividad del uso de micronutrientes: Es necesario diseñar estrategias de promoción y educación con pertinencia cultural que permitan despejar las dudas y preocupaciones de la madre, la familia y la comunidad y deje en claro la importancia y los beneficios del consumo de micronutrientes en polvo (MNP).7 
 
-Revista Peruana de Medicina Experimental y Salud Pública “Barreras y facilitadores a la suplementación con micronutrientes en polvo. Percepciones maternas y dinámica de los servicios de salud” vol.34 no.4 Lima oct. /dic. 2017.[Link](http://www.scielo.org.pe/scielo.php?) 
+Revista Peruana de Medicina Experimental y Salud Pública “Barreras y facilitadores a la suplementación con micronutrientes en polvo. Percepciones maternas y dinámica de los servicios de salud” vol.34 no.4 Lima oct. /dic. 2017.[Link](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1726-46342017000400003 ) 
 Dentro del Plan Nacional para la Reducción y Control de la Anemia Materno Infantil y la Desnutrición Crónica Infantil en el Perú: 2017-2021 se encuentran 15  intervenciones priorizadas que se tomaron en cuenta para diseñar las estrategias que se piensan tomar.
 
 	Compromiso: Se requiere un control eficaz para disminuir el índice de anemia en el Perú; sin embargo,  la contraloría detectó que existe una ineficaz entrega de micronutrientes para niños menores de tres años, el personal del Minsa cumplió parcialmente con brindar consejería nutricional a las madres de familia y los establecimientos de salud solo cumplieron parcialmente con realizar exámenes de hemoglobina a los menores.8
-Periódico La República “La anemia infantil no se ha reducido en el Perú, advierte la Contraloría” 11 Abril del 2017. https://larepublica.pe/sociedad/864324-la-anemia-infantil-no-se-ha-reducido-en-el-peru-advierte-la-contraloria 
+Periódico La República “La anemia infantil no se ha reducido en el Perú, advierte la Contraloría” 11 Abril del 2017. [Link](https://larepublica.pe/sociedad/864324-la-anemia-infantil-no-se-ha-reducido-en-el-peru-advierte-la-contraloria) 
 
 3.2 Aliviadores de frustraciones
 
 	Bajo costo: Realizar un correcto estudio sobre la cantidad de micronutrientes que se requieran, esto debido al incidente que el periódico La República presentó “Micronutrientes contra la anemia infantil caducaron en almacenes”, donde se llega a la conclusión de que se han perdido 90 millones.9
- La República “Micronutrientes contra la anemia infantil caducaron en almacenes”, 07.05.2018. https://elcomercio.pe/peru/micronutrientes-anemia-infantil-caducaron-almacenes-noticia-518145 
+[Link]( La República “Micronutrientes contra la anemia infantil caducaron en almacenes”, 07.05.2018. https://elcomercio.pe/peru/micronutrientes-anemia-infantil-caducaron-almacenes-noticia-518145) 
 
 	Accesibilidad: El Ministerio de Salud implementará un sistema complementario de citas a través de la página web del sector, o mediante un aplicativo móvil gratuito. La Superintendencia Nacional de Salud (Susalud), en Breña,  constató que hubo un mejor flujo en las colas para la expedición de citas y verificó que esta vez había mayor difusión sobre el nuevo sistema de citas.10
-Periódico La República “Minsa anuncia un sistema de citas por internet”  2 Mar 2018. https://larepublica.pe/sociedad/1205198-minsa-anuncia-un-sistema-de-citas-por-internet 
+Periódico La República “Minsa anuncia un sistema de citas por internet”  2 Mar 2018.[Link]( https://larepublica.pe/sociedad/1205198-minsa-anuncia-un-sistema-de-citas-por-internet )
 
 3.5	Productos y servicios
 Un correcto estudio que tome en cuenta las necesidades principales de las personas afectadas (personas con anemia, principalmente niños de 0-3 años), organización y compromiso por parte de las autoridades encargadas de la reducción en los índices de anemia (Minsa, MIDIS, alcaldes provinciales y distritales) para una buena distribución de los micronutrientes. Así como, facilitar el acceso a los padres a los servicios médicos (citas rápidas y tecnología de detección necesaria) para evitar que estos dejen de realizar el tratamiento
