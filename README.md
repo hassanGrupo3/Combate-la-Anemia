@@ -187,15 +187,24 @@ Un correcto estudio que tome en cuenta las necesidades principales de las person
 - ALEGRÍAS INESPERADAS: Participación de la mayoría de familias con niños que padecen anemia.
  
  
-DEFINICION DEL PROBLEMA
+                                                   DEFINICION DEL PROBLEMA
 La anemia no es una enfermedad.
 Es un conjunto de signos y señales que evidencia la producción inadecuada o pérdida exagerada de glóbulos rojos, que son los responsables de transportar el oxígeno en todo el cuerpo, incluido el cerebro. Tiene múltiples causas y muchas de ellas se asemejan a la anemia ferropénica
 En el Simposio anemia infantil: “Biomarcadores del metabolismo y nutrición del hierro”. Los expertos Carmen Sermini, Miguel Arredondo y María Acevedo señalan a la hepcidina y eritroferrona como las moléculas fundamentales en la homeostasis del hierro
-¿TIPO DE ANEMIA MAS COMUN EN EL PERU?
+
+
+
+                                             ¿TIPO DE ANEMIA MAS COMUN EN EL PERU?
 La anemia por deficiencia de hierro, denominada anemia ferropénica, es la causa más común, según Patrick Wagner Grau, expresidente de la Academia Nacional de Medicina del Perú y speaker de Química Suiza.
-¿QUÉ ES LA ANEMIA FERROPENICA?
+
+
+                                                ¿QUÉ ES LA ANEMIA FERROPENICA?
 se define la anemia ferropénica como la coexistencia de anemia y dos o más de los otros exámenes alterados y deficiencia de hierro sin anemia cuando la concentración de hemoglobina es normal, pero existen dos o más de los otros indicadores alterados y depósitos de hierro disminuidos cuando sólo se encuentra una ferritina sérica bajo el nivel normal.
-¿QUÉ OCURRE EN EL PERU?
+
+
+
+                                                   ¿QUÉ OCURRE EN EL PERU?
+                                                   
 -La Organización Mundial de la Salud ( OMS) ha calificado la anemia como el problema de salud pública más importante del mundo, que afecta a cerca del 9% de infantes. En el Perú, la cifra es crítica, 4 de cada 10 (43.6%) niños la padecen.
 -Desde el 2012, la tasa de crecimiento de la anemia está en aumento en 3.1% cada año. A nivel mundial, 25% de la población la padece (1,6 mil
 millones de personas). Los niños y las mujeres en edad reproductiva son los grupos más afectados.
@@ -204,28 +213,42 @@ se define la anemia ferropénica como la coexistencia de anemia y dos o más de 
 -la anemia afecta al 43,6% de los niños menores de tres años constituyendo un problema de salud pública
 Instituto Nacional de Estadística e Informática. Encuesta Demográfica y de Salud Familiar 2016 Nacional y Regional (ENDES 2016)
 -Ate y San Juan de Lurigancho presentan más casos de anemia infantil en la capital con 45% y 37% de su población infantil mientras que Puno encabeza la lista a nivel nacional con 76% de acuerdo con la última Encuesta Demográfica y de Salud Familiar (Endes) realizada el 2015.
-¿GASTOS DEL ESTADO?
+
+
+
+                                                        ¿GASTOS DEL ESTADO?
 El ministerio de Salud gastó, específicamente en funciones de salud, S/ 318.2 millones en enero y S/ 903.6 millones en febrero, un incremento de 26.10% y 36.6%, respectivamente, respecto a lo gastado en similares meses del 2017.
 En lo que va del año, esa cartera ha ejecutado S/ 1,448 millones en programas de salud, lo que representa un avance del 14.9% de su presupuesto, que para este año asciende a S/ 9,709 millones. Lima, La Libertad y Amazonas son las regiones donde más recursos se están ejecutando, según el Portal de Transparencia Económica del MEF.
 Del mismo modo, El MIDIS anunció que se ha transferido 59 millones de soles a los 25 gobiernos regionales, según el nivel de cumplimiento en acciones para la primera infancia, de los cuales 39 millones son
 producto del cumplimiento de indicadores de anemia y la diferencia por convenios con el Ministerio de Salud.
+ 
+ 
 GRUPOS INTERESADOS:
+
 Población:
 No ve el problema como grave porque sus consecuencias son a futuro.
+
 Estado:
 Atacar el problema de malnutrición materno infantil dando alimentación rica en hierro
+
 Pediatras:
 Dosis requerida para cada paciente y conocer la causa de la anemia
+
 Agentes comunitarios:
 Apoyo al cumplimiento del programa otorgado por el estado
+
 Padres:
 Que los bebes logren adherencia al programa y no tener problemas al momento de alimentarlos, ni que los suplementos con hierro causen algún efecto secundario en la salud del bebe.
-++Tecnología actual: invasiva
+
+                                            ++Tecnología actual: invasiva
 REFLEXION 1: un bebe que recibe tratamiento de hierro y no mejora su hemoglobina tiene otro tipo de anemia
 REFLEXION 2: el hemograma es un primer tamizaje, pero no indica la causa que lo origina ni el tipo de anemia si fuera el caso
 REFLEXION 3:al ser asintomática en su mayoría de casos no se reconocer como urgente, se deja de lado mientras el problema continúa avanzando. Los síntomas de anemia no son sensibles ni específicos, y no ayudan a diferenciar los tipos de anemia.
 REFLEXION 4: en vez de hacer campañas contra la anemia, campañas pro de la salud
-DEFINICION DEL PROBLEMA Ausencia de control en el seguimiento eficiente contra la anemia.
+ 
+ 
+                                               DEFINICION DEL PROBLEMA 
+                                Ausencia de control en el seguimiento eficiente contra la anemia.
 Desde un impreciso diagnóstico hasta la falta de un chequeo continuo y eficaz en la evolución y progreso de la salud en los niños de 0 a 3 años.
 
 
