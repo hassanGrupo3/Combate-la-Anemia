@@ -1,7 +1,7 @@
 ## El 29,6% de mujeres gestantes en el Perú tiene anemia
 Así lo precisa la Encuesta Demográfica y de Salud Familiar 2017, elaborada por Instituto Nacional de Estadística e Informática INEI. En Lima Metropolitana se concentra la mayor cantidad de casos
 En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen de anemia, según indica la Encuesta Demográfica y de Salud Familiar (ENDES) 2017, elaborada por Instituto Nacional de Estadística e Informática (INEI).
-
+Esta informacion es relevante
 
 ### PERFIL DEL CLIENTE: Personal médico
 
