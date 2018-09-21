@@ -100,7 +100,7 @@ o Nivel de inversión significativo
 3.4	Creadores de alegrías
 	Efectividad del uso de micronutrientes: Es necesario diseñar estrategias de promoción y educación con pertinencia cultural que permitan despejar las dudas y preocupaciones de la madre, la familia y la comunidad y deje en claro la importancia y los beneficios del consumo de micronutrientes en polvo (MNP).7 
 
-Revista Peruana de Medicina Experimental y Salud Pública “Barreras y facilitadores a la suplementación con micronutrientes en polvo. Percepciones maternas y dinámica de los servicios de salud” vol.34 no.4 Lima oct. /dic. 2017. http://www.scielo.org.pe/scielo.php?
+Revista Peruana de Medicina Experimental y Salud Pública “Barreras y facilitadores a la suplementación con micronutrientes en polvo. Percepciones maternas y dinámica de los servicios de salud” vol.34 no.4 Lima oct. /dic. 2017.[Link](http://www.scielo.org.pe/scielo.php?) 
 Dentro del Plan Nacional para la Reducción y Control de la Anemia Materno Infantil y la Desnutrición Crónica Infantil en el Perú: 2017-2021 se encuentran 15  intervenciones priorizadas que se tomaron en cuenta para diseñar las estrategias que se piensan tomar.
 
 	Compromiso: Se requiere un control eficaz para disminuir el índice de anemia en el Perú; sin embargo,  la contraloría detectó que existe una ineficaz entrega de micronutrientes para niños menores de tres años, el personal del Minsa cumplió parcialmente con brindar consejería nutricional a las madres de familia y los establecimientos de salud solo cumplieron parcialmente con realizar exámenes de hemoglobina a los menores.8
