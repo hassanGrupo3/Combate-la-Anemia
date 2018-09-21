@@ -4,16 +4,19 @@ En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen d
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### formas de combatir la anemia
+### PERFIL DEL CLIENTE: Personal médico
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+TRABAJOS DEL CLIENTE:
 
-#Gestantes Perfil
-## EsTado Perfil
-### Niños Perfil
+	Extraer muestra de sangre y, según los resultados, emitir un diagnostico
+	Acompañar en el tratamiento
+	Interactuar con los familiares del paciente
+
+
 
 - Bulleted
 - List
