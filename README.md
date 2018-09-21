@@ -12,7 +12,7 @@ TRABAJOS DEL CLIENTE:
 
 	Extraer muestra de sangre y, según los resultados, emitir un diagnostico
 	Acompañar en el tratamiento
-	Interactuar con los familiares del paciente
+	Interactuar con los familiares del paciente.
 
 FRUSTRACIONES:
 
