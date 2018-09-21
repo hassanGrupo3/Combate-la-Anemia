@@ -4,7 +4,10 @@ En el Perú, tres de cada diez mujeres en estado de gestación (29,6%) padecen d
 Esta informacion es relevante
 
 
-Ø TRABAJOS DEL CLIENTE: Madres con hijos anémicos, jóvenes adolescentes en edad fértil. 
+
+###PERFIL DEL CLIENTE: MUJERES GESTANTES 
+
+Ø TRABAJOS DEL CLIENTE: 
 - FUNCIONAL: Mantener la buena salud de sus hijos y aportar económicamente a la familia.
 - SOCIAL: Tienen miedo de ser vistos como malos padres
 
