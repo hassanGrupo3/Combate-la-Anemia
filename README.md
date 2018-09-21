@@ -77,7 +77,7 @@ Es muy difícil que la buena gestión se dé de forma espontánea, para ello hay
 
 
  
-### Jekyll Themes
+### Cliente Estado
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hassanhurtado/-pagina-web-anemia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
