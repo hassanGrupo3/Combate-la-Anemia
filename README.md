@@ -5,7 +5,8 @@ Esta informacion es relevante
 
 
 
-###PERFIL DEL CLIENTE: MUJERES GESTANTES 
+PERFIL DEL CLIENTE:MUJERES GESTANTES 
+
 
 Ø TRABAJOS DEL CLIENTE: 
 - FUNCIONAL: Mantener la buena salud de sus hijos y aportar económicamente a la familia.
@@ -44,8 +45,7 @@ Un apoyo por parte del Estado para facilitar el aumento de hierro en los niños 
 
 
 
-### PERFIL DEL CLIENTE: Personal médico PERFIL DEL CLIENTE:MUJERES GESTANTES 
-
+### PERFIL DEL CLIENTE: Personal médico 
 
 
 
